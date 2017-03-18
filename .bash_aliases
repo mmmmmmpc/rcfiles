@@ -1,0 +1,5 @@
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+alias tf='tail -f -n 50'
+alias s='screen -d -RR'
