@@ -5,7 +5,7 @@ Miguel P.C. rcfiles
 
 Installation
 ------------
-
-  git clone --recursive git@github.com:mperezco/rcfiles.git 
-  cp -arvf rcfiles/* ~/
-
+~~~~
+git clone --recursive git@github.com:mperezco/rcfiles.git 
+cp -arvf rcfiles/* ~/
+~~~~
